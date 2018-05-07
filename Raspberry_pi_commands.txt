@@ -1,4 +1,0 @@
-Python commands for taking picktures 
-
--raspistill -o (image name).jpg
-
